@@ -83,11 +83,7 @@ export default function Hero() {
             <div className="flex justify-center animate-slide-in-right">
               <div className="relative">
                 <div className="w-64 h-64 md:w-72 md:h-72 lg:w-96 lg:h-96 rounded-full overflow-hidden shadow-2xl">
-                  <img
-                    src="https://media.licdn.com/dms/image/v2/D4D35AQEMP6Yekzsy2w/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1721197236942?e=1756479600&v=beta&t=3P2xdlaGnLCPT3ekyHlq-r9k4FERlT1jOXISD1qlavY"
-                    alt="Gagas Firmansyah - Project Manager & Designer"
-                    className="w-full h-full object-cover"
-                  />
+                  <img src="/gagas.webp" alt="Gagas Firmansyah - Project Manager & Designer" className="w-full h-full object-cover" />
                 </div>
                 <div className="absolute md:-bottom-4 md:-right-4 -bottom-2 -right-2  md:w-20 md:h-20 lg:w-24 lg:h-24 w-16 h-16 bg-accent-500 rounded-full flex items-center justify-center shadow-lg">
                   <span className="text-white font-bold text-lg">PM</span>
